@@ -12,4 +12,7 @@ Currently implemented projects:
 - hello_cargo
 - loops
 - variables
+- temperature-converter
+- fib
+- carols
 ```
