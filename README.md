@@ -15,4 +15,6 @@ Currently implemented projects:
 - temperature-converter
 - fib
 - carols
+- structs
+- rectangles
 ```
