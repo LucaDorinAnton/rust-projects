@@ -17,4 +17,6 @@ Currently implemented projects:
 - carols
 - structs
 - rectangles
+- enums
+- matches
 ```
