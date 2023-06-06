@@ -20,4 +20,5 @@ Currently implemented projects:
 - enums
 - matches
 - backyard
+- restaurant
 ```
