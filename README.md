@@ -24,4 +24,5 @@ Currently implemented projects:
 - collections
 - median_and_mode
 - pig_latin
+- company_departments
 ```
