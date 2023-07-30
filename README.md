@@ -22,4 +22,5 @@ Currently implemented projects:
 - backyard
 - restaurant
 - collections
+- median_and_mode
 ```
