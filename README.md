@@ -23,4 +23,5 @@ Currently implemented projects:
 - restaurant
 - collections
 - median_and_mode
+- pig_latin
 ```
