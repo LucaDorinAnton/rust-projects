@@ -21,4 +21,5 @@ Currently implemented projects:
 - matches
 - backyard
 - restaurant
+- collections
 ```
