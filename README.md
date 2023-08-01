@@ -25,4 +25,5 @@ Currently implemented projects:
 - median_and_mode
 - pig_latin
 - company_departments
+- error-handling
 ```
