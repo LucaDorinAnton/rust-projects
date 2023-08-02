@@ -26,4 +26,5 @@ Currently implemented projects:
 - pig_latin
 - company_departments
 - error-handling
+- generics-traits-lifetimes
 ```
