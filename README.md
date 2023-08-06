@@ -27,4 +27,5 @@ Currently implemented projects:
 - company_departments
 - error-handling
 - generics-traits-lifetimes
+- adder (unit and integration tests)
 ```
