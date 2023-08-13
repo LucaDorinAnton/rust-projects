@@ -28,4 +28,5 @@ Currently implemented projects:
 - error-handling
 - generics-traits-lifetimes
 - adder (unit and integration tests)
+- minigrep
 ```
