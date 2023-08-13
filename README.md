@@ -29,4 +29,5 @@ Currently implemented projects:
 - generics-traits-lifetimes
 - adder (unit and integration tests)
 - minigrep
+- t-shirts
 ```
