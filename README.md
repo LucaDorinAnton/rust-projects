@@ -33,4 +33,5 @@ Currently implemented projects:
 - smart_pointers
 - fearless_concurrency
 - gui
+- blog (State pattern version)
 ```
