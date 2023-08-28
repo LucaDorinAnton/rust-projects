@@ -34,4 +34,5 @@ Currently implemented projects:
 - fearless_concurrency
 - gui
 - blog (State pattern version)
+- blog-rust (Idiomatic Rust version with Types)
 ```
