@@ -32,4 +32,5 @@ Currently implemented projects:
 - t-shirts
 - smart_pointers
 - fearless_concurrency
+- gui
 ```
