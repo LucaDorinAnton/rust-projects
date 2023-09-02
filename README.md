@@ -35,4 +35,6 @@ Currently implemented projects:
 - gui
 - blog (State pattern version)
 - blog-rust (Idiomatic Rust version with Types)
+- hello_macro (and hello_macro_derive)
+- pancakes (using hello_macro)
 ```
