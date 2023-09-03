@@ -37,4 +37,5 @@ Currently implemented projects:
 - blog-rust (Idiomatic Rust version with Types)
 - hello_macro (and hello_macro_derive)
 - pancakes (using hello_macro)
+- web_server (final project)
 ```
